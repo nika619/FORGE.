@@ -56,3 +56,8 @@ F.O.R.G.E. breaks away from traditional productivity soft-UI. It replaces friend
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+
+---
+
+Built by [Mayank Tiwari](https://github.com/nika619) · [Hire me on Contra](https://contra.com/mayank_tiwari_a4vkcjsh)
