@@ -1,4 +1,6 @@
 # F.O.R.G.E.
+
+[![CI](https://github.com/nika619/FORGE./actions/workflows/ci.yml/badge.svg)](https://github.com/nika619/FORGE./actions/workflows/ci.yml)
 ### Framework for Objective Routing & Gamified Execution
 
 F.O.R.G.E. is a premium, fully interactive gamified productivity engine. Engineered with a strict "Obsidian Navigator" 3D-hybrid aesthetic, it transforms mundane task management into navigating a high-stakes tactical game lobby. Turn your biggest ambitions into actionable quests, earn XP, and level up your execution.
